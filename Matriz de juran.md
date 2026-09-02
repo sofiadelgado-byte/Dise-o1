@@ -12,7 +12,7 @@
 | 9 | “Usé bastón para ir agarrando equilibrio.” | La solución proporciona seguridad en la marcha. | Percibida + Manifestada |
 | 10 | Ha tenido que aprender nuevamente a caminar y posteriormente abandonar el bastón. | La solución otorga independencia en las actividades cotidianas, siendo discreta, autónoma y fácil de incorporar a la rutina.   | Cultural + Latente |
 
-
+# Lista de atributos:
 ### Atributos funcionales:
 
 1. Adaptabilidad anatómica  
