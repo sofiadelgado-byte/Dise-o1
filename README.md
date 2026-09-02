@@ -15,8 +15,9 @@ Entrevistas semiestructuradas cualitativas (con observación directa de uso y so
 
 
 ### Guion de preguntas 
-¿Podría contarnos brevemente cómo ocurrió el accidente?
-¿Hace cuánto ocurrió el accidente?
+1. ¿Podría contarnos brevemente cómo ocurrió el accidente?
+2.¿Hace cuánto ocurrió el accidente?
+
 ¿Cómo cambió su vida después del accidente?
 ¿Qué actividades realizaba antes del accidente que ahora se le dificultan o no puede realizar?
 ¿Cómo describiría actualmente su movilidad en el día a día?
