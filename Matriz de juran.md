@@ -11,3 +11,30 @@
 | 9 | “Usé bastón para ir agarrando equilibrio.” | La solución proporciona seguridad en la marcha. | Percibida + Manifestada |
 | 10 | Ha tenido que aprender nuevamente a caminar y posteriormente abandonar el bastón. | La solución otorga independencia en las actividades cotidianas, siendo discreta, autónoma y fácil de incorporar a la rutina.   | Cultural + Latente |
 
+
+### Atributos funcionales:
+
+1. Adaptabilidad anatómica  
+2. Compensación de longitud  
+3. Protección de elementos de fijación  
+4. Distribución de cargas  
+5. Amortiguación de impactos  
+6. Asistencia muscular  
+7. Libertad de movimiento  
+8. Facilitación de movimientos de descenso  
+9. Estabilidad durante la marcha  
+10. Alineación corporal  
+11. Reducción del esfuerzo  
+12. Seguridad durante el desplazamiento
+
+### Atributos de uso y experiencia:
+
+13. Autonomía  
+14. Independencia  
+15. Comodidad  
+16. Ergonomía  
+17. Facilidad de uso  
+18. Discreción  
+19. Adaptabilidad a diferentes actividades  
+20. Integración a la rutina cotidiana
+
