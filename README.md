@@ -26,11 +26,11 @@ Persona adulta con antecedente de accidente de tránsito que ocasionó una fract
 
 Características demográficas:
 
-Edad: Adulto.
-Sexo: Indistinto.
-Nivel socioeconómico: No determinado a partir de la información disponible.
-Nivel educativo / cognitivo: No determinado a partir de la información disponible.
-Contexto: Persona que continúa su proceso de adaptación a las consecuencias funcionales derivadas del accidente de tránsito.
+- Edad: Adulto.
+- Sexo: Indistinto.
+- Nivel socioeconómico: No determinado a partir de la información disponible.
+- Nivel educativo / cognitivo: No determinado a partir de la información disponible.
+- Contexto: Persona que continúa su proceso de adaptación a las consecuencias funcionales derivadas del accidente de tránsito.
 
 ### Guion de preguntas 
 1. ¿Podría contarnos brevemente cómo ocurrió el accidente?
