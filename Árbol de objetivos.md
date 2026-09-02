@@ -1,4 +1,5 @@
-# Jerarquización de atributos 
+# Árbol de Objetivos Ponderados: 
+## Jerarquización de objetivos:
 
 | Eje | Atributos asociados |
 | ----- | ----- |
