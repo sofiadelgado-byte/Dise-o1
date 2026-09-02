@@ -1,3 +1,4 @@
+# Transcripción entrevista:
 **Sofia Delgado:** Para comenzar, Wanda, ¿podría contarnos brevemente cómo ocurrió el accidente?
 
 **Wanda:** Tuve un accidente de tránsito en el que sufrí una fractura expuesta y conminuta en el fémur derecho.
