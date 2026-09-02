@@ -16,17 +16,16 @@ Entrevistas semiestructuradas cualitativas (con observación directa de uso y so
 
 ### Guion de preguntas 
 1. ¿Podría contarnos brevemente cómo ocurrió el accidente?
-2.¿Hace cuánto ocurrió el accidente?
-
-¿Cómo cambió su vida después del accidente?
-¿Qué actividades realizaba antes del accidente que ahora se le dificultan o no puede realizar?
-¿Cómo describiría actualmente su movilidad en el día a día?
-¿Qué síntomas o molestias experimenta actualmente?
-¿Siente dolor? Si es así, ¿en qué situaciones aparece o aumenta?
-¿Utiliza actualmente algún dispositivo de apoyo, como bastón, muletas, caminador, plantilla o calzado especial?
-¿Qué tan cómodo o incómodo le resulta utilizar ese apoyo?
-¿Cómo se moviliza normalmente: caminando, transporte público, automóvil, motocicleta u otro medio?
-¿Qué actividad le gustaría poder realizar nuevamente sin dificultad?
-Qué características debería tener una solución para que fuera cómoda y útil para usted?
-¿Qué cosas harían que dejara de utilizar esa solución?
-Si pudiera pedirnos que resolviéramos un solo problema relacionado con su movilidad, ¿cuál sería?
+2. ¿Hace cuánto ocurrió el accidente?
+3. ¿Cómo cambió su vida después del accidente?
+4. ¿Qué actividades realizaba antes del accidente que ahora se le dificultan o no puede realizar?
+5. ¿Cómo describiría actualmente su movilidad en el día a día?
+6. ¿Qué síntomas o molestias experimenta actualmente?
+7. ¿Siente dolor? Si es así, ¿en qué situaciones aparece o aumenta?
+8. ¿Utiliza actualmente algún dispositivo de apoyo, como bastón, muletas, caminador, plantilla o calzado especial?
+9. ¿Qué tan cómodo o incómodo le resulta utilizar ese apoyo?
+10. ¿Cómo se moviliza normalmente: caminando, transporte público, automóvil, motocicleta u otro medio?
+11. ¿Qué actividad le gustaría poder realizar nuevamente sin dificultad?
+12. Qué características debería tener una solución para que fuera cómoda y útil para usted?
+13. ¿Qué cosas harían que dejara de utilizar esa solución?
+14. Si pudiera pedirnos que resolviéramos una necesidad relacionado con su movilidad, ¿Cuál sería?
