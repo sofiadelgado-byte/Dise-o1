@@ -14,7 +14,7 @@ Entrevistas semiestructuradas cualitativas (con observación directa de uso y so
 ### Perfil de usuario
 Persona adulta con antecedente de accidente de tránsito que ocasionó una fractura expuesta y conminuta de fémur derecho, requirió múltiples procedimientos quirúrgicos y presenta como consecuencia un acortamiento del miembro inferior. Su condición afecta principalmente la movilidad, el desplazamiento y la realización de actividades cotidianas que requieren permanecer de pie, caminar o trasladarse entre diferentes espacios.
 
-Características funcionales:
+#### Características funcionales:
 
 - Presenta un acortamiento del miembro inferior como consecuencia de la lesión sufrida en el accidente.
 - Presenta alteraciones en la marcha y en la forma de desplazarse como consecuencia de la diferencia de longitud entre los miembros inferiores.
