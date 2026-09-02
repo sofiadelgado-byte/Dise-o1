@@ -1,3 +1,4 @@
+# Matriz de juran
 | \# | Voz del Cliente (Entrevista directa). | Necesidad interpretada | Clasificación |
 | :---- | :---- | :---- | :---- |
 | 1 | “Tuve un accidente de tránsito donde tuve una fractura expuesta y conminuta en el fémur derecho.” | La solución requiere una adaptación anatómica a las condiciones de la extremidad inferior derecha. | Real + Latente |
