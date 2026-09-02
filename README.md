@@ -8,6 +8,6 @@ Estas condiciones incrementan el esfuerzo requerido para desplazarse y realizar 
 En conjunto, esta situación afecta la forma en que la persona se desplaza y desarrolla sus actividades diarias, condicionando su movilidad, estabilidad, esfuerzo físico y autonomía. Por lo tanto, se plantea una problemática centrada en las dificultades de movilidad y desempeño físico que pueden presentarse como consecuencia de una lesión grave en una extremidad inferior y una condición de osteopenia.
 
 ## Protocolo 
-### MÉTODO SELECCIONADO ###
+### Método Seleccionado
 
 Entrevistas semiestructuradas cualitativas (con observación directa de uso y solicitud de registro visual/documental).
