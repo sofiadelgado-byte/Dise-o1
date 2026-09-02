@@ -9,5 +9,23 @@ En conjunto, esta situación afecta la forma en que la persona se desplaza y des
 
 ## Protocolo 
 ### Método Seleccionado
-
 Entrevistas semiestructuradas cualitativas (con observación directa de uso y solicitud de registro visual/documental).
+
+### Perfil de usuario
+
+
+### Guion de preguntas 
+¿Podría contarnos brevemente cómo ocurrió el accidente?
+¿Hace cuánto ocurrió el accidente?
+¿Cómo cambió su vida después del accidente?
+¿Qué actividades realizaba antes del accidente que ahora se le dificultan o no puede realizar?
+¿Cómo describiría actualmente su movilidad en el día a día?
+¿Qué síntomas o molestias experimenta actualmente?
+¿Siente dolor? Si es así, ¿en qué situaciones aparece o aumenta?
+¿Utiliza actualmente algún dispositivo de apoyo, como bastón, muletas, caminador, plantilla o calzado especial?
+¿Qué tan cómodo o incómodo le resulta utilizar ese apoyo?
+¿Cómo se moviliza normalmente: caminando, transporte público, automóvil, motocicleta u otro medio?
+¿Qué actividad le gustaría poder realizar nuevamente sin dificultad?
+Qué características debería tener una solución para que fuera cómoda y útil para usted?
+¿Qué cosas harían que dejara de utilizar esa solución?
+Si pudiera pedirnos que resolviéramos un solo problema relacionado con su movilidad, ¿cuál sería?
